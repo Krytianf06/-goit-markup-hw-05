@@ -676,7 +676,6 @@ img {
   font-weight:var(--first-font-weight) ;
   font-size: 18px;
   line-height: 1.56;
-  color: var(--third-color);
   letter-spacing: 0.03em;
   transform: scaleY(0);
   visibility: hidden;
